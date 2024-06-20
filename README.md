@@ -1,4 +1,6 @@
+<br>
 <h1 align="center">Hi there 👋 I'm Jeongmin Choi, a web publisher. </h1>
+<br>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -41,7 +43,7 @@
     <img
       src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=white"/>&nbsp
   </a>
-  <a href="malito:mymemose93@gmail.com">
+  <a href="mailto:mymemose93@gmail.com">
     <img
       src="https://img.shields.io/badge/mymemose93@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
