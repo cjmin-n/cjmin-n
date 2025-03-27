@@ -62,7 +62,7 @@
 <a href="https://velog.io/@cjmin-n" target="_blank">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
-  <a href="https://www.notion.so/choijeongminweb" target="_blank">
+  <a href="https://www.notion.so/choijeongminweb/Jeongmin-Choi-5efa63d3ac8c4a4db3165acd2c208ae2?pvs=4" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
   <a href="mailto:mymemose93@gmail.com">
